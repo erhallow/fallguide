@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fallguide.nwiexplored.com/sitemap.xml
