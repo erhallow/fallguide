@@ -6,6 +6,7 @@ from html.parser import HTMLParser
 import json
 from pathlib import Path
 import unittest
+from tag_links import strip_utm
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -69,7 +70,7 @@ class GuideChecks(unittest.TestCase):
         return next(n for n in DOC.nodes if n.attrs.get("data-audit-id") == str(value))
 
     def hrefs(self, node):
-        return [n.attrs["href"] for n in node.descendants() if n.tag == "a"]
+        return [strip_utm(n.attrs["href"]) for n in node.descendants() if n.tag == "a"]
 
     def test_document_landmarks_and_internal_targets(self):
         self.assertEqual(sum(n.tag == "h1" for n in DOC.nodes), 1)
