@@ -1,0 +1,396 @@
+[
+  {
+    "ids": [
+      2,
+      8,
+      98,
+      147,
+      184
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Correct newsletter homepage; free Monday/Thursday delivery and subscription entry points are clear.",
+    "action": "Keep."
+  },
+  {
+    "ids": [
+      3,
+      183,
+      185
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Opens the September 21, 2026 issue, matching 'Read a recent issue'. No searching required.",
+    "action": "Keep; refresh the sample periodically or call it 'Read a sample issue' so the label ages well."
+  },
+  {
+    "ids": [
+      7
+    ],
+    "accuracy": "Match",
+    "ease": "Scroll",
+    "review": "Browser opens Valparaiso ZIP 46385, October 2026. The daily table is below the graph; October 31 sunset is 5:44 p.m., consistent with the guide's rounded 5:45.",
+    "action": "Keep. Already selects the right place, month and year; no clearer verified alternative is needed."
+  },
+  {
+    "ids": [
+      9
+    ],
+    "accuracy": "Source conflict",
+    "ease": "Direct",
+    "review": "Correct September 25, 2026 event and Central Park Plaza. Header ends 9:30 p.m.; detailed program ends 9 p.m.",
+    "action": "Keep this event page; retain the final-hours caveat until organizer resolves the conflict."
+  },
+  {
+    "ids": [
+      10
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Dedicated event page supports September 26–27, 1–5 p.m., $5 ages 3+ and free ages 2 and under. Admission is in the FAQ.",
+    "action": "Keep; normal within-event scrolling, not an event hunt."
+  },
+  {
+    "ids": [
+      11
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Browser confirms September 27, 2026, 11 a.m.–6 p.m., Shady Creek Winery, 2030 Tryon Road. Automated 403 is not a broken reader link.",
+    "action": "Keep the direct Tock event page."
+  },
+  {
+    "ids": [
+      12
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Festival-specific site shows 2026 dates, daily hours and parish venue. The guide matches.",
+    "action": "Keep."
+  },
+  {
+    "ids": [
+      13
+    ],
+    "accuracy": "Match with caveat",
+    "ease": "Scroll",
+    "review": "Fall Festival page contains an Oktoberfest subsection for October 2–4; readers scroll past other special weekends. Friday wording is confusing.",
+    "action": "No dedicated Oktoberfest detail link found in this page's navigation. Keep the seasonal page for now; ask organizer to clarify Friday hours."
+  },
+  {
+    "ids": [
+      14
+    ],
+    "accuracy": "Source conflict",
+    "ease": "Direct",
+    "review": "2026 detailed schedule matches 1–10 p.m. and Bulldog Park. Image alternative text says 2–10 p.m.",
+    "action": "Keep; follow the detailed program and flag the source's conflicting image label."
+  },
+  {
+    "ids": [
+      15
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Compact official page gives October 8–10, 2026, Thu/Fri 3–9 p.m., Saturday noon–9 p.m., free admission.",
+    "action": "Keep."
+  },
+  {
+    "ids": [
+      16
+    ],
+    "accuracy": "Source conflict",
+    "ease": "Direct",
+    "review": "Detailed 2026 program matches guide; calendar wrapper instead shows Friday 4 p.m. and Sunday 10 p.m.",
+    "action": "Keep the official event page; do not copy wrapper times into the guide."
+  },
+  {
+    "ids": [
+      17
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Dedicated event page supports October 17, 11 a.m.–5 p.m., free general entry and optional paid food packages.",
+    "action": "Keep."
+  },
+  {
+    "ids": [
+      18
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Eventbrite overview confirms October 4, general entry 1–4 p.m. and VIP noon at Zorn Brew Works.",
+    "action": "Keep; ticket purchase is a normal next step, not a search for the event."
+  },
+  {
+    "ids": [
+      19
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Dedicated 2026 event page confirms October 10, 10 a.m.–2 p.m., Central Park Plaza, free family festival.",
+    "action": "Keep."
+  },
+  {
+    "ids": [
+      20
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Dedicated Pumpkin Trains page clearly lists 2026 dates, departure times, age-banded coach fares and booking fees.",
+    "action": "Keep; all essential planning details are on this page."
+  },
+  {
+    "ids": [
+      21
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Dedicated Pumpkinfest page confirms October 10–11, noon–4 p.m., Saturday weigh-off and both-day display. Admission detail is in the FAQ.",
+    "action": "Keep."
+  },
+  {
+    "ids": [
+      22
+    ],
+    "accuracy": "Match",
+    "ease": "Scroll",
+    "review": "The multi-season hours page supports the schedule but gives little description or pricing. A dedicated Pumpkin Glow page provides dates, hours, inclusions and ticket prices.",
+    "action": "Replace with the verified attraction page.",
+    "alternative": "https://www.harvesttymefun.com/pumpkin-glow-trail"
+  },
+  {
+    "ids": [
+      23,
+      150
+    ],
+    "accuracy": "Source conflict",
+    "ease": "Scroll",
+    "review": "2026 festival date/hour/admission panels match the guide. Farther down, generic Fun Farm prose lists $15 rather than $15.99.",
+    "action": "Keep the dedicated Pumpkin Festival page; use the explicitly labeled current festival prices, with checkout as final authority."
+  },
+  {
+    "ids": [
+      24
+    ],
+    "accuracy": "Wrong landing page",
+    "ease": "Hunt",
+    "review": "Encoded query lands on the general Munster calendar. Its actual event link confirms October 3, 2026, 10 a.m.–2 p.m., Centennial Park north lot, $20 child wristband, cash only.",
+    "action": "Replace with the verified item URL and update the currently unverified details.",
+    "alternative": "https://www.munster.org/eGov/apps/events/calendar.egov?view=item&id=4696"
+  },
+  {
+    "ids": [
+      25
+    ],
+    "accuracy": "Relevant profile only",
+    "ease": "Hunt",
+    "review": "Facebook profile requires finding posts; its linked official festival website explicitly announces October 3, 2026 and links the 2026 schedule.",
+    "action": "Replace with the verified official festival site.",
+    "alternative": "https://westvillepumpkinfestival.com/"
+  },
+  {
+    "ids": [
+      26
+    ],
+    "accuracy": "Match with caveat",
+    "ease": "Scroll",
+    "review": "Dedicated Fall Festival page supports October 10/24, $5 and children's trick-or-treating; 11 a.m.–3 p.m. is buried in sponsor instructions. Its separate Schedule page's calendar image was visually checked and explicitly confirms those dates/hours in 2026.",
+    "action": "Keep the specific festival page; optionally add the 2026 schedule as corroboration. The previously unverified year is now supported by the calendar.",
+    "alternative": "https://hauntedhillshauntedattractions.com/schedule/"
+  },
+  {
+    "ids": [
+      27
+    ],
+    "accuracy": "Match with caveat",
+    "ease": "Direct",
+    "review": "Browser confirms October 23–25, 2026, Pioneerland/campground activities at La Porte County Fairgrounds. The calendar says all day, not actual public activity hours.",
+    "action": "Keep the event-specific tourism page; public hours still need organizer confirmation."
+  },
+  {
+    "ids": [
+      28
+    ],
+    "accuracy": "Match",
+    "ease": "Hunt",
+    "review": "Season hub mentions the Halloween Trail among many attractions. Its dedicated page confirms October 31, 2026, noon–4 p.m., $5 orchard admission and ages 2 and under free.",
+    "action": "Replace with the verified event-specific page.",
+    "alternative": "https://fofarms.com/halloween-trail/"
+  },
+  {
+    "ids": [
+      29
+    ],
+    "accuracy": "Copy correction",
+    "ease": "Direct",
+    "review": "New direct page is correct for November 7, 2026, noon–4 p.m. Its admission FAQ explicitly says pumpkin smashing costs extra.",
+    "action": "Keep link. Replace 'Included with orchard admission' with '$5 orchard admission ages 3+; ages 2 and under free. Pumpkin smashing costs extra.'"
+  },
+  {
+    "ids": [
+      31
+    ],
+    "accuracy": "Match; missing details",
+    "ease": "Direct with prompt",
+    "review": "Public Facebook event confirms October 4, 2026, 2–7 p.m., YMCA Camp Triangle Hills Lodge, 3838 W. 141st Avenue. Login prompt is dismissible.",
+    "action": "Keep; add the now-verified venue and hours. Admission remains unconfirmed."
+  },
+  {
+    "ids": [
+      34
+    ],
+    "accuracy": "Match; missing details",
+    "ease": "Direct with prompt",
+    "review": "Organizer's specific post names Halloweentown, Saturday October 10 at Cedar Lake Town Grounds. Screening time is not stated in visible post.",
+    "action": "Keep direct post; add movie title but do not invent a start time."
+  },
+  {
+    "ids": [
+      35
+    ],
+    "accuracy": "Match with caveat",
+    "ease": "Direct",
+    "review": "Official 2026 event page matches date, hours, address and ticket prices. Infant wording explicitly covers under 1, leaving age 1 unclear.",
+    "action": "Keep. Retain younger-child price caveat and member-ticket requirements."
+  },
+  {
+    "ids": [
+      36
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Event page distinguishes ranch hours 10–4:30 from noon–1:30 trick-or-treating and 3:30 last vehicle; ticket price/fee match.",
+    "action": "Keep."
+  },
+  {
+    "ids": [
+      38,
+      106
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Browser opens the dedicated 2026 Haunted Trails page with October 18, 2–5 p.m., $8 adult/$4 child tickets and venue. Public details are readable without login.",
+    "action": "Keep both occurrences."
+  },
+  {
+    "ids": [
+      39
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Public Instagram caption from Schererville Parks confirms Wednesday October 21, 6–8 p.m., Community Center and free admission.",
+    "action": "Keep the specific post; the earlier full-detail caveat can be narrowed. Avoid treating a social account prompt as proof the post is inaccessible."
+  },
+  {
+    "ids": [
+      40,
+      87
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Dedicated 2026 page matches October 23, 4–6 p.m., 100+ stops and rain-or-shine policy. Lower business list is explicitly 2025.",
+    "action": "Keep; do not describe the historical stop list as this year's confirmed participants."
+  },
+  {
+    "ids": [
+      41
+    ],
+    "accuracy": "Relevant calendar only",
+    "ease": "Hunt",
+    "review": "Initial Barker calendar shows ordinary tours and September events. Search found the official October 24, 2026 Victorian Superstitions ticket page: 6–8 p.m., $25, 631 Washington Street.",
+    "action": "Use the verified session link if listing October 24; do not use one session to imply every former October date is confirmed.",
+    "alternative": "https://barkermansion.org/events/candlelight-tour-victorian-superstitions-at-barker-mansion-2/"
+  },
+  {
+    "ids": [
+      42,
+      92
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Official Pumpkin Walk page confirms October 24, 2026, free trick-or-treating around the square. Map and participating businesses are pending.",
+    "action": "Keep. Do not add public hours until checked against the flyer or organizer."
+  },
+  {
+    "ids": [
+      44
+    ],
+    "accuracy": "Match; missing details",
+    "ease": "Direct with prompt",
+    "review": "Public Facebook event matches October 24, 2026, Patti's All-American, 1530 Joliet Street, Dyer; hours are 5–8 p.m. Description needs 'See more' for policies.",
+    "action": "Keep direct event; add verified time/address. Ages, cost and drop-off rules still need checking."
+  },
+  {
+    "ids": [
+      45
+    ],
+    "accuracy": "Copy correction",
+    "ease": "Direct",
+    "review": "Official page now gives October 31, 2026, 10 a.m.–4:30 p.m.; 3:30 p.m. is last vehicle admission, not closing. Costume parade is noon.",
+    "action": "Keep link. Correct closing time and label last admission separately."
+  },
+  {
+    "ids": [
+      46
+    ],
+    "accuracy": "Match; missing details",
+    "ease": "Direct",
+    "review": "Official PNW event confirms September 25, 2026, 6–9 p.m., Gabis Arboretum and tribute identity. Ticket tiers require following Purchase Tickets.",
+    "action": "Keep official event page; 6–9 p.m. is the listed event window, not independently verified gates/show split."
+  },
+  {
+    "ids": [
+      47
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Dedicated tourism event confirms October 27, 2026, 6:30 p.m., Chapel of the Resurrection. Admission caveat remains appropriate.",
+    "action": "Keep."
+  },
+  {
+    "ids": [
+      48
+    ],
+    "accuracy": "Match; missing details",
+    "ease": "Direct",
+    "review": "Direct Eventbrite page matches October 30, 4–7 p.m., ages 21+, 50 tickets; gives 204 Jefferson Street and doors 3:45.",
+    "action": "Keep; add the starting address if useful."
+  },
+  {
+    "ids": [
+      49
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Official event page matches October 30, 2026, 8–11 p.m. CT, 21+, $18 advance/$20 door plus taxes/fees.",
+    "action": "Keep."
+  },
+  {
+    "ids": [
+      50
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Despite an old Driver 8 slug, visible page is the correct October 31 Without U2 Halloween Bash with ERAS, 6 p.m. doors/7 p.m. show and $15/$20 fares.",
+    "action": "Keep the working event URL; the slug alone is not a mismatch."
+  },
+  {
+    "ids": [
+      51
+    ],
+    "accuracy": "Match",
+    "ease": "Direct",
+    "review": "Direct Eventbrite page confirms October 31, 8 p.m.–midnight, Duneland Falls, ages 21+, food/open bar and costume contest.",
+    "action": "Keep."
+  },
+  {
+    "ids": [
+      52
+    ],
+    "accuracy": "Match; missing details",
+    "ease": "Direct with prompt",
+    "review": "Public Facebook event confirms September 26, 2026, 10 a.m.–4 p.m., Crown Antique Mall, 545 E. 110th Avenue.",
+    "action": "Keep direct event; add verified hours/address."
+  }
+]

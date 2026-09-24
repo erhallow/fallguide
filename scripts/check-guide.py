@@ -118,7 +118,7 @@ class GuideChecks(unittest.TestCase):
 
     def test_corrected_link_destinations(self):
         expected = {
-            23: "https://fofarms.com/harvest-season/",
+            23: "https://fofarms.com/halloween-trail/",
             24: "https://fofarms.com/harvest-season/pumpkin-smash-bash/",
             41: "https://www.pnw.edu/event/acorn-concert-series-sarahs-place-zach-bryan-and-noah-kahan-tribute/",
             42: "https://www.valparaisoevents.com/event/valparaisouniversitysymphonyorchestrahalloweenspooktacular",
@@ -139,22 +139,93 @@ class GuideChecks(unittest.TestCase):
         self.assertIn("1101 E. Coolspring Avenue", listing.text)
         self.assertIn("Public trunk-or-treat", listing.text)
         notes = [n.text for n in listing.descendants() if n.has_class("source-note")]
-        self.assertEqual(notes, ["2026 date and time verified from organizer event page."])
+        self.assertEqual(notes, ["2026 date and time verified from organizer event page. · Facebook event"])
         self.assertNotIn("A dated event announcement is needed", listing.text)
         self.assertNotIn("2026 details not verified", listing.text)
 
-    def test_historical_and_current_town_hours_are_separate(self):
+    def test_only_verified_current_town_hours_are_shown(self):
         town_section = self.by_id("town-hours")
         tiles = [n for n in town_section.descendants() if n.has_class("tile")]
-        self.assertEqual(len(tiles), 31)
+        self.assertEqual(len(tiles), 30)
+        self.assertNotIn("2025", town_section.text)
+        self.assertFalse(any(n.has_class("slots") or n.has_class("sky") for n in town_section.descendants()))
+        pending = next(n for n in town_section.descendants() if n.tag == "details")
+        self.assertIn("30 schedules not yet verified", pending.text)
         for tile in tiles:
-            self.assertIn("2025", tile.text)
-            self.assertIn("2026", tile.text)
-            self.assertTrue(self.hrefs(tile))
+            self.assertIn("2026 not verified", tile.text)
+            self.assertNotIn("p.m.", tile.text)
+            if "La Porte" in tile.text:
+                self.assertFalse(self.hrefs(tile))
+                self.assertIn("Official source unavailable", tile.text)
+            else:
+                self.assertTrue(self.hrefs(tile))
         confirmed = next(n for n in town_section.descendants() if n.has_class("confirmed-town"))
         self.assertIn("Knox", confirmed.text)
         self.assertIn("5:30–7 p.m. Central Time", confirmed.text)
         self.assertIn("https://www.cityofknox.net/", self.hrefs(confirmed))
+
+    def test_extra_audit_direct_event_links(self):
+        expected = {
+            17: "https://www.harvesttymefun.com/pumpkin-glow-trail",
+            19: "https://www.munster.org/eGov/apps/events/calendar.egov?view=item&id=4696",
+            20: "https://westvillepumpkinfestival.com/",
+            27: "https://www.cityofhobart.org/513/Halloween-in-the-Park",
+            32: "https://stjohnin.recdesk.com/Community/Program/Detail?programId=589",
+            36: "https://barkermansion.org/events/candlelight-tour-victorian-superstitions-at-barker-mansion-2/",
+            50: "https://www.townplanner.com/boone-grove/in/event/arts-and-entertainment/the-bizarre-bazaar-at-the-porter-county-expo-center/20260926/877285/",
+            51: "https://www.facebook.com/events/1653128139256628/",
+            63: "https://www.portercountyexpo.org/Calendar.aspx?EID=565",
+            66: "https://www.portagein.gov/Calendar.aspx?EID=3012&month=10&year=2026&day=8&calType=0",
+            67: "https://www.cityofhobart.org/513/Halloween-in-the-Park",
+            69: "https://4.files.edl.io/1187/08/27/26/160512-4143b519-bef0-4f9a-80da-bb725b8c01a9.pdf",
+            71: "https://stayhappening.com/e/trunk-or-treat-E2ISYV8NP99",
+            74: "https://stjohnin.recdesk.com/Community/Program/Detail?programId=589",
+            76: "https://www.townplanner.com/event/883786/",
+            80: "https://www.townplanner.com/event/882998/",
+            81: "https://www.townplanner.com/event/882580/",
+            93: "https://www.townplanner.com/event/883796/",
+            101: "https://www.chaostrips.com/book-online",
+            114: "https://www.scheeringafarm.com/fall-fun",
+            121: "https://pavolkafruitfarm.com/picked-%26-u-pick",
+            131: "https://coffeecreekpreserve.org/trail-map-guidelines/",
+            132: "https://www.pnw.edu/gabis-arboretum/plan-your-visit/",
+        }
+        for listing_id, url in expected.items():
+            with self.subTest(listing=listing_id):
+                self.assertEqual(self.hrefs(self.listing(listing_id))[0], url)
+        self.assertNotIn("Spook-Fest", DOC.root.text)
+        self.assertNotIn("https://www.townplanner.com/event/882073/", HTML)
+        self.assertNotIn("https://www.cityoflaporte.com/departments/government", HTML)
+
+    def test_extra_audit_copy_corrections(self):
+        self.assertIn("Pumpkin smashing costs extra", self.listing(24).text)
+        self.assertNotIn("Included with orchard admission", self.listing(24).text)
+        wildlife = next(n for n in DOC.nodes if n.tag == "li" and "WILD Critters & Costumes" in n.text)
+        self.assertIn("10 a.m.–4:30 p.m.", wildlife.text)
+        self.assertIn("last vehicle admission 3:30 p.m.", wildlife.text)
+        self.assertIn("around 4 hours", self.listing(127).text)
+        self.assertIn("model trains run", self.listing(132).text)
+        self.assertIn("Garden viewing daily", self.listing(132).text)
+        self.assertIn("Boarding location is to be announced", self.listing(100).text)
+        self.assertNotIn("Hammond departure", self.listing(100).text)
+        self.assertIn("$20 U-pick purchase per family", self.listing(117).text)
+        self.assertIn("$5 shopper admission", self.listing(56).text)
+        self.assertIn("Saturday opening time conflicts", self.listing(54).text)
+        self.assertIn("Provisional", self.listing(71).text)
+        self.assertIn("Unconfirmed attraction", self.listing(99).text)
+        self.assertIn("Dates and hours need confirmation", self.listing(106).text)
+        self.assertIn("October 24 session only", self.listing(36).text)
+        for listing_id in (109, 115, 121):
+            self.assertNotIn("daily 9 a.m.–5 p.m.", self.listing(listing_id).text)
+
+    def test_external_links_and_new_detail_links(self):
+        for n in DOC.nodes:
+            if n.tag == "a" and n.attrs.get("target") == "_blank":
+                self.assertIn("noopener", n.attrs.get("rel", "").split())
+        for listing_id in (95, 104, 110, 117, 126):
+            self.assertEqual(len(self.hrefs(self.listing(listing_id))), 2)
+        self.assertIn("PDF flyer", self.listing(69).text)
+        self.assertIn("DNR access guide (PDF)", self.listing(136).text)
 
     def test_no_unverified_event_schema(self):
         schemas = [json.loads(n.text) for n in DOC.nodes if n.attrs.get("type") == "application/ld+json"]

@@ -1,0 +1,1304 @@
+[
+  {
+    "id": 1,
+    "audit_id": null,
+    "label": "Skip to guide",
+    "url": "#main-content",
+    "guide": "Skip to guide"
+  },
+  {
+    "id": 2,
+    "audit_id": null,
+    "label": "NWIEXPLORED",
+    "url": "https://nwiexplored.com/",
+    "guide": "NWIEXPLORED"
+  },
+  {
+    "id": 3,
+    "audit_id": null,
+    "label": "Read a recent issue",
+    "url": "https://nwiexplored.com/p/your-first-taste-of-fall-comes-this-week-make-the-most-of-it",
+    "guide": "Read a recent issue"
+  },
+  {
+    "id": 4,
+    "audit_id": null,
+    "label": "EventsFestivals & eventsFall festivals, Halloween events, concerts, craft markets and community trick-or-treating.",
+    "url": "#p2",
+    "guide": "EventsFestivals & eventsFall festivals, Halloween events, concerts, craft markets and community trick-or-treating."
+  },
+  {
+    "id": 5,
+    "audit_id": null,
+    "label": "HalloweenHours & hauntsTown hours with the year clearly marked, plus haunted attractions and ghost tours.",
+    "url": "#p3",
+    "guide": "HalloweenHours & hauntsTown hours with the year clearly marked, plus haunted attractions and ghost tours."
+  },
+  {
+    "id": 6,
+    "audit_id": null,
+    "label": "OutdoorsFarms, orchards & hikes17 farms and orchards, plus 13 places to enjoy fall color.",
+    "url": "#p4",
+    "guide": "OutdoorsFarms, orchards & hikes17 farms and orchards, plus 13 places to enjoy fall color."
+  },
+  {
+    "id": 7,
+    "audit_id": null,
+    "label": "Check exact local sunset times",
+    "url": "https://www.timeanddate.com/sun/@z-us-46385?month=10&year=2026",
+    "guide": "Check exact local sunset times"
+  },
+  {
+    "id": 8,
+    "audit_id": null,
+    "label": "NWIEXPLORED",
+    "url": "https://nwiexplored.com/",
+    "guide": "NWIEXPLORED"
+  },
+  {
+    "id": 9,
+    "audit_id": "4",
+    "label": "Downtown Biergarten",
+    "url": "https://www.valparaisoevents.com/event/brewfest-kick-off-german-biergarten",
+    "guide": "Sept.25Downtown Biergarten ValparaisoCentral Park Plaza, Valparaiso · Check the event page for final hours.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 10,
+    "audit_id": "5",
+    "label": "Oktoberfest at Fair Oaks Farms",
+    "url": "https://fofarms.com/oktoberfest/",
+    "guide": "Sept.26–27Oktoberfest at Fair Oaks Farms $5 ages 3+1–5 p.m. · 856 N 600 E, Fair Oaks · Orchard admission $5 ages 3+; ages 2 and under free.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 11,
+    "audit_id": "6",
+    "label": "Creektoberfest",
+    "url": "https://www.exploretock.com/shadycreekwinery/event/622858",
+    "guide": "Sept.27Creektoberfest Michigan City11 a.m.–6 p.m. · Shady Creek Winery, 2030 Tryon Road, Michigan CitySource reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 12,
+    "audit_id": "7",
+    "label": "St. John Oktoberfest",
+    "url": "https://www.stjohnoktoberfest.com/",
+    "guide": "Oct.2–4St. John Oktoberfest St. JohnFri. 5–11 p.m.; Sat. 1–11 p.m.; Sun. noon–8 p.m. · St. John the Evangelist Parish, 9400 Wicker Ave. · German food and family activities.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 13,
+    "audit_id": "8",
+    "label": "Oktoberfest at Harvest Tyme",
+    "url": "https://www.harvesttymefun.com/fall-festival",
+    "guide": "Oct.2–4Oktoberfest at Harvest Tyme LowellHarvest Tyme Family Farm, 17904 Grant St., Lowell · See the fall-festival page for the day-by-day schedule.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 14,
+    "audit_id": "9",
+    "label": "Crown Point Oktoberfest",
+    "url": "https://www.crownpoint.in.gov/398/Oktoberfest",
+    "guide": "Oct.3Crown Point Oktoberfest Free entry1–10 p.m. · Bulldog Park, 183 S. West St., Crown Point · Live music, hayrides and games; food and drinks extra.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 15,
+    "audit_id": "10",
+    "label": "Biergarten at Sunset Hill",
+    "url": "https://www.portercountyparks.org/biergarten",
+    "guide": "Oct.8–10Biergarten at Sunset Hill Free entryThu.–Fri. 3–9 p.m.; Sat. noon–9 p.m. · Sunset Hill Farm County Park, Valparaiso · Food and beer sold separately.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 16,
+    "audit_id": "11",
+    "label": "Griffith Oktoberfest",
+    "url": "https://griffith.in.gov/specialevents/page/griffith-oktoberfest",
+    "guide": "Oct.9–11Griffith Oktoberfest FreeFri 5–10:30 p.m., Sat 2–10 p.m., Sun 2–8 p.m. · Central Park, 600 N Broad St · free pumpkins & kits for kids 12 & underSource reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 17,
+    "audit_id": "12",
+    "label": "Oktoberfest at Journeyman",
+    "url": "https://www.journeyman.com/events/oktoberfest/",
+    "guide": "Oct.17Oktoberfest at Journeyman Free entry11 a.m.–5 p.m. · Journeyman Distillery, 258 S. Campbell St., Valparaiso · Food packages extra.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 18,
+    "audit_id": "13",
+    "label": "Mac & Cheese Fest",
+    "url": "https://www.eventbrite.com/e/mac-and-cheese-fest-tickets-1962498473764",
+    "guide": "Oct.4Mac & Cheese Fest Ticketed1–4 p.m.; VIP entry at noon · Zorn Brew Works, 605 E. 9th St., Michigan City · Check current ticket tiers and fees.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 19,
+    "audit_id": "14",
+    "label": "Fall Harvest Festival",
+    "url": "https://www.valparaisoevents.com/event/fall-harvest-festival",
+    "guide": "Oct.10Fall Harvest Festival Free10 a.m.–2 p.m. · Central Park Plaza, Valparaiso · last day of the Valparaiso MarketSource reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 20,
+    "audit_id": "15",
+    "label": "Pumpkin Train Rides",
+    "url": "https://www.hoosiervalley.org/train-rides/special-events/pumpkin-trains",
+    "guide": "Oct. 3, 10, 17 & 24Pumpkin Train Rides $20 adult / $15 childHoosier Valley Railroad Museum, North Judson · 11:30 a.m., 1:30 p.m., 3:30 p.m. and 5:30 p.m.; also 9:30 a.m. Oct. 17 & 24. Coach/open-air: $20 ages 16+, $15 ages 3–15; ages 0–2 free on an adult’s lap. Online booking fee extra.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 21,
+    "audit_id": "16",
+    "label": "Pumpkinfest at Fair Oaks",
+    "url": "https://fofarms.com/pumpkinfest/",
+    "guide": "Oct.10–11Pumpkinfest at Fair Oaks $5Noon–4 p.m. · Fair Oaks Farms · Giant pumpkins, carving and games. Weigh-off Saturday; pumpkin display both days.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 22,
+    "audit_id": "17",
+    "label": "Pumpkin Glow Trail",
+    "url": "https://www.harvesttymefun.com/dates-hours",
+    "guide": "Sept. 19–Oct. 25Pumpkin Glow Trail TicketedFridays–Sundays, 6:30–9 p.m. · Harvest Tyme Family Farm, Lowell · A nighttime lights trail.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 23,
+    "audit_id": "18",
+    "label": "Johnson's Pumpkin Festival",
+    "url": "https://johnsonsfarmproduce.com/pumpkin-festival/",
+    "guide": "Sept. 26–Oct. 31Johnson's Pumpkin Festival From $15.99Weekends, 10 a.m.–6 p.m.; last admission 5 p.m. · Johnson's Farm Produce, Hobart · General $15.99; all-access $25.99; pumpkins extra. See package inclusions before booking.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 24,
+    "audit_id": "19",
+    "label": "Pumpkins, Witches & Hayrides",
+    "url": "https://www.munster.org/eGov/apps/events/calendar.egov?view=detail%3Bid%3D4696",
+    "guide": "Oct.3Pumpkins, Witches & Hayrides Check detailsCentennial Park, Munster · Some activities require a paid wristband. Date, public hours and current activity prices need confirmation.2026 details not verified"
+  },
+  {
+    "id": 25,
+    "audit_id": "20",
+    "label": "Westville Pumpkin Festival",
+    "url": "https://www.facebook.com/Westville.Pumpkin.Festival/",
+    "guide": "Oct.3Westville Pumpkin Festival WestvilleWestville town festival · A dated 2026 schedule, public hours and venue details still need confirmation.2026 details not verified"
+  },
+  {
+    "id": 26,
+    "audit_id": "21",
+    "label": "Haunted Hills Fall Fest",
+    "url": "https://hauntedhillshauntedattractions.com/fall-festival/",
+    "guide": "Oct.10 & 24Haunted Hills Fall Fest $511 a.m.–3 p.m. · Lights-on hospital-haunt tours and trick-or-treating for children under 12 · Some activities cost extra.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 27,
+    "audit_id": "22",
+    "label": "Halloween Happenings",
+    "url": "https://michigancitylaporte.com/events/halloween-happenings-at-the-laporte-county-fairgrounds/",
+    "guide": "Oct.23–25Halloween Happenings La PorteLa Porte County Fairgrounds · Pioneerland trick-or-treating and Halloween activities. Check the organizer for public hours and the final program.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 28,
+    "audit_id": "23",
+    "label": "Halloween Trail at Fair Oaks",
+    "url": "https://fofarms.com/harvest-season/",
+    "guide": "Oct.31Halloween Trail at Fair Oaks Orchard entryNoon–4 p.m. · Fair Oaks Farms · Check the Harvest Season page for admission details.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 29,
+    "audit_id": "24",
+    "label": "Pumpkin Smash Bash",
+    "url": "https://fofarms.com/harvest-season/pumpkin-smash-bash/",
+    "guide": "Nov.7Pumpkin Smash Bash Orchard entryNoon–4 p.m. · Fair Oaks Farms · Included with orchard admission.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 30,
+    "audit_id": "25",
+    "label": "Wickedly Whiting",
+    "url": "https://www.wickedlywhiting.com/faq",
+    "guide": "Oct.2–3Wickedly Whiting Free119th Street, Whiting · Costume contests and Halloween activities. FAQ lists Oct. 2–3 for 2026; confirm the final announcement because some site details are from 2025.2026 details not verified"
+  },
+  {
+    "id": 31,
+    "audit_id": "26",
+    "label": "Halloween at the Lodge",
+    "url": "https://www.facebook.com/events/1433086628643653",
+    "guide": "Oct.4Halloween at the Lodge Crown PointCrown Point · Venue, public hours and admission still need confirmation from the complete event listing.Confirm full event details"
+  },
+  {
+    "id": 32,
+    "audit_id": "27",
+    "label": "Pumpkins in the Park + Golf Cart Parade",
+    "url": "https://www.cityofhobart.org/201/Hobart-Events",
+    "guide": "Oct.10Pumpkins in the Park + Golf Cart Parade FreeParade 3:30 p.m.; event 4–6 p.m. · City Ball Park, Hobart · Check the final event announcement for arrival details.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 33,
+    "audit_id": "28",
+    "label": "Spook-Fest",
+    "url": "https://www.facebook.com/p/Dunes-Events-Center-100063463005110/",
+    "guide": "Oct.10Spook-Fest La PorteDunes Events Center, La Porte · A dated 2026 event announcement, hours and admission still need confirmation.2026 details not verified"
+  },
+  {
+    "id": 34,
+    "audit_id": "29",
+    "label": "Movies in the Park: Halloween",
+    "url": "https://www.facebook.com/cedarlakeparksandrec/posts/-mark-your-calendars-our-movies-in-the-park-series-is-getting-a-spooky-twist-joi/1065865676215188/",
+    "guide": "Oct.10Movies in the Park: Halloween FreeCedar Lake Town Grounds · Check the current parks announcement for the movie title, screening time and other details.Confirm full event details"
+  },
+  {
+    "id": 35,
+    "audit_id": "30",
+    "label": "Boo at the Washington Park Zoo",
+    "url": "https://michigancityin.gov/city-event/booatthezoo2026/",
+    "guide": "Oct.17Boo at the Washington Park Zoo $12 adult / $10 child10 a.m.–4 p.m.; last admission 3:30 p.m. · 115 Lake Shore Drive, Michigan City · $12 adults / $10 ages 2–11. Confirm admission for younger children. Members must obtain an event ticket before Oct. 11 and bring their membership pass and photo ID.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 36,
+    "audit_id": "31",
+    "label": "Trick-or-Treat in the WILD",
+    "url": "https://www.sorwildlife.com/event-details/trick-or-treat-in-the-wild-2026-10-17-10-00",
+    "guide": "Oct.17Trick-or-Treat in the WILD $15 ages 2+Trick-or-treating noon–1:30 p.m. · Sandy Oak Ranch, 1144 W 700 N, Lake Village · Ranch open 10 a.m.–4:30 p.m.; last vehicle 3:30 p.m. · Listed ticket service fee: $0.38.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 37,
+    "audit_id": "32",
+    "label": "Boo Bash at Prairie West Park",
+    "url": "https://stjohnin.gov/all-events-and-posts/",
+    "guide": "Oct.17Boo Bash at Prairie West Park Free10 a.m.–noon · Prairie West Park, St. John · Check current registration, age and residency rules before attending.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 38,
+    "audit_id": "33",
+    "label": "Friendship Gardens Haunted Trails",
+    "url": "https://friendshipbotanicgardens.org/event/haunted-trails-event-2026/",
+    "guide": "Oct.18Friendship Gardens Haunted Trails $4 child / $8 adult2–5 p.m. · 2055 E. US Highway 12, Michigan City · $4 child / $8 adult · Costume trick-or-treating, crafts and a bonfire.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 39,
+    "audit_id": "34",
+    "label": "Halloween Stories & Campfire",
+    "url": "https://www.instagram.com/p/DdonplxDIh0/",
+    "guide": "Oct.21Halloween Stories & Campfire Free6–8 p.m. · Schererville Community Center · FreeConfirm full event details"
+  },
+  {
+    "id": 40,
+    "audit_id": "35",
+    "label": "Downtown Trick-or-Treat",
+    "url": "https://www.valparaisoevents.com/event/downtown-trick-or-treat",
+    "guide": "Oct.23Downtown Trick-or-Treat Free4–6 p.m. · Downtown Valparaiso · 100+ businessesSource reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 41,
+    "audit_id": "36",
+    "label": "Candlelight Tour: Victorian Superstitions",
+    "url": "https://barkermansion.org/events/",
+    "guide": "Dates to confirmCandlelight Tour: Victorian Superstitions TourBarker Mansion, 631 Washington St., Michigan City · Check the current tour calendar for Victorian Superstitions sessions, admission and booking.2026 details not verified"
+  },
+  {
+    "id": 42,
+    "audit_id": "37",
+    "label": "Crown Point Pumpkin Walk",
+    "url": "https://www.crownpoint.in.gov/522/Pumpkin-Walk",
+    "guide": "Oct.24Crown Point Pumpkin Walk FreeTrick-or-treat around the downtown squareSource reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 43,
+    "audit_id": "38",
+    "label": "Run For Your Life at Robinson Lake",
+    "url": "https://www.cityofhobart.org/614/Run-For-Your-Life-at-Robinson-Lake",
+    "guide": "Oct.24Run For Your Life at Robinson Lake RegistrationRobinson Lake, Hobart · Fun walk, 5K and haunted-trail options. Confirm each start time, ticket price and inclusion on the registration page.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 44,
+    "audit_id": "39",
+    "label": "Patti's All-American Halloween Bash Kids Night Out",
+    "url": "https://www.facebook.com/events/1530-joliet-st-dyer-in-united-states-indiana-46311/halloween-bash-kids-night-out/1661614018819978/",
+    "guide": "Oct.24Patti's All-American Halloween Bash Kids Night Out DyerPatti's All-American, Dyer · Check ages, hours, registration and drop-off rules in the full event listing.Confirm full event details"
+  },
+  {
+    "id": 45,
+    "audit_id": null,
+    "label": "WILD Critters & Costumes",
+    "url": "https://www.sorwildlife.com/event-details/wild-critters-and-costumes",
+    "guide": "Oct.31WILD Critters & CostumesLake Village10 a.m.–3:30 p.m. · Sandy Oak Ranch, Lake Village · $15 ages 2+, plus listed $0.38 service fee.2026 event page reviewed Sept. 23"
+  },
+  {
+    "id": 46,
+    "audit_id": "41",
+    "label": "Acorn Concert Series: Sarah's Place",
+    "url": "https://www.pnw.edu/event/acorn-concert-series-sarahs-place-zach-bryan-and-noah-kahan-tribute/",
+    "guide": "Sept.25Acorn Concert Series: Sarah's Place TicketedSarah's Place: a Zach Bryan and Noah Kahan tribute · Gabis Arboretum, Valparaiso · Check the concert ticket page for gates/show times, ticket tiers and child admission.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 47,
+    "audit_id": "42",
+    "label": "Valparaiso University Symphony Halloween Spooktacular",
+    "url": "https://www.valparaisoevents.com/event/valparaisouniversitysymphonyorchestrahalloweenspooktacular",
+    "guide": "Oct.27Valparaiso University Symphony Halloween Spooktacular All ages6:30 p.m. · Chapel of the Resurrection, 1600 Chapel Drive, Valparaiso · Costumes encouraged. Check the university for admission details.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 48,
+    "audit_id": "40",
+    "label": "Adult Downtown Trick-or-Treat",
+    "url": "https://www.eventbrite.com/e/adult-downtown-trick-or-treat-tickets-1999786939569",
+    "guide": "Oct.30Adult Downtown Trick-or-Treat 21+4–7 p.m. · Downtown Valparaiso · Shopping and tasting event; event capacity 50. Book ahead and check the starting location.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 49,
+    "audit_id": "43",
+    "label": "Journeyman's Halloween Party",
+    "url": "https://www.journeyman.com/events/halloween-party-valparaiso-in-26/",
+    "guide": "Oct.30Journeyman's Halloween Party 21+8–11 p.m. CT · The American Factory, 258 S. Campbell St., Valparaiso · Ages 21+ · $18 advance / $20 at the door, plus taxes and fees.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 50,
+    "audit_id": "45",
+    "label": "Without U2 Halloween Bash",
+    "url": "https://brickartlive.com/event/without-u2-driver-8-tributes-to-u2-r-e-m/",
+    "guide": "Oct.31Without U2 Halloween Bash All agesU2 tribute with ERAS · Doors 6 p.m.; show 7 p.m. · Hobart Art Theater, 230 Main St. · $15 advance / $20 day of show.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 51,
+    "audit_id": "46",
+    "label": "Halloween Bash '26 NWI",
+    "url": "https://www.eventbrite.com/e/halloween-bash-26-nwi-adult-halloween-party-costume-contest-tickets-1993982098132",
+    "guide": "Oct.31Halloween Bash '26 NWI 21+8 p.m.–midnight · Duneland Falls, 1100 Max Mochal Highway, Chesterton · Ages 21+ · Open bar, food and costume contest; check ticket terms.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 52,
+    "audit_id": "48",
+    "label": "Halloween Spooktacular Outdoor Market",
+    "url": "https://www.facebook.com/events/1246074090979453",
+    "guide": "Sept. 26Halloween Spooktacular Outdoor MarketCrown Antique Mall, Crown Point · Confirm public hours and the street address in the full event listing.Confirm full event details"
+  },
+  {
+    "id": 53,
+    "audit_id": "49",
+    "label": "12th Annual Arts & Crafts Show",
+    "url": "https://michigancitylaporte.com/events/arts-crafts-show/",
+    "guide": "Sept. 2612th Annual Arts & Crafts Show9 a.m.–3 p.m. · La Porte County Fairgrounds · Free admission and parking.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 54,
+    "audit_id": "50",
+    "label": "The Bizarre Bazaar",
+    "url": "https://www.indianadunes.com/event/the-bizarre-bazaar/5804/",
+    "guide": "Sept. 26The Bizarre BazaarPorter County Expo Center, Valparaiso · Confirm the 2026 date, hours, cash-only admission and age rules.Confirm full event details"
+  },
+  {
+    "id": 55,
+    "audit_id": "51",
+    "label": "Harvest Craft Festival",
+    "url": "https://www.facebook.com/GriffithFallHarvestCraftFestival/",
+    "guide": "Sept. 26–27Harvest Craft FestivalGriffith · Confirm the 2026 schedule and public hours from a dated event announcement.2026 details not verified"
+  },
+  {
+    "id": 56,
+    "audit_id": "52",
+    "label": "Edge of Liberty Craft Fair",
+    "url": "https://www.edgeofliberty.us/",
+    "guide": "Oct. 4 & 18; Nov. 1Edge of Liberty Craft Fair10 a.m.–3 p.m. · 606 N. Calumet Ave., Valparaiso · See the fair calendar for additional dates.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 57,
+    "audit_id": "53",
+    "label": "4th Annual Fall Craft Bazaar",
+    "url": "https://www.facebook.com/events/4187249544919441/",
+    "guide": "Oct. 174th Annual Fall Craft BazaarWestville School · Confirm public hours and admission.Confirm full event details"
+  },
+  {
+    "id": 58,
+    "audit_id": "55",
+    "label": "Spooktacular Craft & Vendor Market",
+    "url": "https://hometownvendormarket.com/northwestindianaspooktacular/",
+    "guide": "Oct. 24–25Spooktacular Craft & Vendor MarketSat. 10 a.m.–8 p.m.; Sun. noon–6 p.m. · Southlake Mall, Merrillville · Shopper admission not yet verified.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 59,
+    "audit_id": "56",
+    "label": "Sparta Dome Autumn Arts & Crafts",
+    "url": "https://spartadome.com/craftfair/",
+    "guide": "Oct. 24Sparta Dome Autumn Arts & CraftsSparta Dome, Crown Point · Check public shopping hours and admission; the linked page also includes vendor registration.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 60,
+    "audit_id": "57",
+    "label": "Fall Craft Show & Vendor Fair",
+    "url": "https://highlandparks.org/events/fall-craft-show-vendor-fair/",
+    "guide": "Oct. 24Fall Craft Show & Vendor FairLincoln Community Center, Highland · Public hours and shopper admission not yet verified.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 61,
+    "audit_id": "54",
+    "label": "Hometown Hocus Pocus Indoor Market",
+    "url": "https://www.yourhometownevents.com/hocuspocus/",
+    "guide": "Oct. 30–31*Hometown Hocus Pocus Indoor MarketLake County Fairgrounds, Crown Point · Source advertises Fri. 5–9 p.m.; Sat. closes 2 p.m. ($5 entry; ages 12 and under and U.S. veterans free). *Confirm the current-year dates and Saturday opening: the source says both 9 and 10 a.m.Source conflict — confirm dates"
+  },
+  {
+    "id": 62,
+    "audit_id": "58",
+    "label": "Harvest & Holly Makers Market",
+    "url": "https://cedarlakefarmersmarket.com/harvest-holly-at-the-lake-county-fairgrounds/",
+    "guide": "Nov. 6–7Harvest & Holly Makers MarketFri. 4–9 p.m.; Sat. 10 a.m.–4 p.m. · Industrial Building, Lake County Fairgrounds, Crown Point · $5 at the door for shoppers over 18. The linked page also contains vendor registration.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 63,
+    "audit_id": "59",
+    "label": "First Presbyterian Church of Valparaiso Crafter & Vendor Fair",
+    "url": "https://www.facebook.com/events/1509824157435197",
+    "guide": "Nov. 7First Presbyterian Church of Valparaiso Crafter & Vendor FairValparaiso · Confirm the venue and public hours.Confirm full event details"
+  },
+  {
+    "id": 64,
+    "audit_id": "60",
+    "label": "Dig the Dunes Artisan Market",
+    "url": "https://www.eventbrite.com/e/dig-the-dunes-artisan-market-tickets-1985096705684",
+    "guide": "Nov. 7Dig the Dunes Artisan Market10 a.m.–5 p.m. · Lubeznik Center for the Arts, Michigan City · Free admission.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 65,
+    "audit_id": "63",
+    "label": "3 Little Birds Holiday Market",
+    "url": "https://www.3littlebirdsmarket.net/product/2026-holiday-market-admission/25",
+    "guide": "Nov. 13–143 Little Birds Holiday MarketFri. 4–8 p.m.; Sat. 9 a.m.–4 p.m. · Porter County Expo Center, 215 E. Division Road, Valparaiso · $5 advance; $5 cash / $6 card at the door; children under 13 free.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 66,
+    "audit_id": "61",
+    "label": "Fall at the Lodge",
+    "url": "https://www.facebook.com/events/camp-triangle-hills-of-crossroads-ymca-association/fall-at-the-lodge/3633152356852346",
+    "guide": "Nov. 14Fall at the LodgeCrown Point · Confirm the lodge venue and public hours in the full event listing.Confirm full event details"
+  },
+  {
+    "id": 67,
+    "audit_id": "62",
+    "label": "NWI Fall Craft & Vendor Market",
+    "url": "https://hometownvendormarket.com/northwestindianafall/",
+    "guide": "Nov. 14–15NWI Fall Craft & Vendor MarketSat. 10 a.m.–8 p.m.; Sun. noon–6 p.m. · Southlake Mall, Merrillville · Shopper admission not yet verified.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 68,
+    "audit_id": "64",
+    "label": "Valparaiso Baptist Fall Festival",
+    "url": "https://www.valpobaptist.org/fallfest",
+    "guide": "Oct. 4Valparaiso Baptist Fall FestivalValparaiso1:30–5:30 p.m. · Sunset Hill Farm County Park · Free admission.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 69,
+    "audit_id": "65",
+    "label": "City of Hammond Indoor Trunk or Treat",
+    "url": "https://www.gohammond.com/events/trunk-or-treat-2026/",
+    "guide": "Oct. 8City of Hammond Indoor Trunk or TreatHammond5–7 p.m. · Hammond Civic Center, 5825 Sohl Ave.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 70,
+    "audit_id": "66",
+    "label": "Life Care Center of Valparaiso Trunk-or-Treat",
+    "url": "https://lcca.com/locations/in/valparaiso/",
+    "guide": "Oct. 8Life Care Center of Valparaiso Trunk-or-TreatValparaisoA dated event announcement is still needed; the facility homepage does not confirm the schedule.2026 details not verified"
+  },
+  {
+    "id": 71,
+    "audit_id": "67",
+    "label": "Pumpkins in the Park",
+    "url": "https://www.cityofhobart.org/201/Hobart-Events",
+    "guide": "Oct. 10Pumpkins in the ParkHobartParade 3:30 p.m.; event 4–6 p.m. · City Ball Park, Hobart · Free; confirm final arrival details.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 72,
+    "audit_id": "68",
+    "label": "Alpha Storm Solutions Trunk-or-Treat",
+    "url": "https://www.facebook.com/events/4452033391791321",
+    "guide": "Oct. 10Alpha Storm Solutions Trunk-or-TreatHobartCheck the full event listing for hours and address.Confirm full event details"
+  },
+  {
+    "id": 73,
+    "audit_id": "69",
+    "label": "USW 6787 Trunk or Treat",
+    "url": "https://www.duneland.k12.in.us/resources/for-community",
+    "guide": "Oct. 11USW 6787 Trunk or TreatChesterton11 a.m.–2 p.m. · USW 6787 · See the community bulletin for the event announcement and location.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 74,
+    "audit_id": "70",
+    "label": "Southlake YMCA Trunk-or-Treat",
+    "url": "https://www.facebook.com/events/1680330880766048/",
+    "guide": "Oct. 16Southlake YMCA Trunk-or-TreatCrown PointSouthlake YMCA / Crossroads YMCA · Check the full event for hours and parking instructions.Confirm full event details"
+  },
+  {
+    "id": 75,
+    "audit_id": "71",
+    "label": "Region ATA Trunk-or-Treat",
+    "url": "https://regionata.com/",
+    "guide": "Oct. 17Region ATA Trunk-or-TreatHighlandDate, public hours and registration not yet verified from a current event announcement.2026 details not verified"
+  },
+  {
+    "id": 76,
+    "audit_id": "72",
+    "label": "American Legion Unit 83 Auxiliary Trunk-or-Treat",
+    "url": "https://www.facebook.com/events/2993329607674573",
+    "guide": "Oct. 17American Legion Unit 83 Auxiliary Trunk-or-TreatLa PorteCheck the full event for hours and address.Confirm full event details"
+  },
+  {
+    "id": 77,
+    "audit_id": "73",
+    "label": "Faith Fellowship Church Trunk-or-Treat",
+    "url": "https://www.facebook.com/events/4193082144242563",
+    "guide": "Oct. 17Faith Fellowship Church Trunk-or-TreatMichigan CityCheck the full event for hours, address and activities.Confirm full event details"
+  },
+  {
+    "id": 78,
+    "audit_id": "74",
+    "label": "Boo Bash at Prairie West Park",
+    "url": "https://stjohnin.gov/all-events-and-posts/",
+    "guide": "Oct. 17Boo Bash at Prairie West ParkSt. John10 a.m.–noon · Prairie West Park · Check current registration, age and residency rules before attending.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 79,
+    "audit_id": "75",
+    "label": "Sunset Hill Farm Trunk-or-Treat",
+    "url": "https://www.portercountyparks.org/trunk-or-treat",
+    "guide": "Oct. 17Sunset Hill Farm Trunk-or-TreatValparaiso3–6 p.m. · Sunset Hill Farm County Park · Free; all ages.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 80,
+    "audit_id": "76",
+    "label": "American Legion Post 260 Trunk-or-Treat",
+    "url": "https://www.facebook.com/Post260",
+    "guide": "Oct. 18American Legion Post 260 Trunk-or-TreatPortageA dated event post is needed to confirm the schedule.2026 details not verified"
+  },
+  {
+    "id": 81,
+    "audit_id": "77",
+    "label": "Associated Pediatricians Trunk-or-Treat",
+    "url": "https://www.associatedpediatricians.com/trunk-or-treat",
+    "guide": "Oct. 18Associated Pediatricians Trunk-or-TreatValparaiso3–6 p.m. · Check the organizer announcement for the venue and arrival details.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 82,
+    "audit_id": "78",
+    "label": "Merrillville Annual Trunk-or-Treat",
+    "url": "https://www.merrillville.in.gov/news/posts/merrillville-hosts-trunk-or-treat-oct-21/",
+    "guide": "Oct. 21Merrillville Annual Trunk-or-TreatMerrillville5:30–7:30 p.m. · Dean and Barbara White Community Center, 6600 Broadway · Free; costume contest.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 83,
+    "audit_id": "79",
+    "label": "Aperion Care Arbors Michigan City Trunk-or-Treat",
+    "url": "https://www.facebook.com/events/1536607871566699",
+    "guide": "Oct. 22Aperion Care Arbors Michigan City Trunk-or-TreatMichigan CityPublic trunk-or-treat with food and Halloween fun at Aperion Care Arbors Michigan City. October 22, 4–6 p.m. Central, at 1101 E. Coolspring Avenue. See the event page for updates.2026 date and time verified from organizer event page."
+  },
+  {
+    "id": 84,
+    "audit_id": "80",
+    "label": "Nicole Hanson Group Trunk-or-Treat",
+    "url": "https://www.facebook.com/NicoleHansonGroupRealtor/",
+    "guide": "Oct. 23Nicole Hanson Group Trunk-or-TreatCrown PointDate, hours and street address still need confirmation from an event announcement.2026 details not verified"
+  },
+  {
+    "id": 85,
+    "audit_id": "81",
+    "label": "Haunted ‘Hall’-o-ween",
+    "url": "https://www.facebook.com/events/1068921992777010",
+    "guide": "Oct. 23Haunted ‘Hall’-o-weenScherervilleThe event source requires Facebook access. Date, venue and hours have not been verified here.2026 details not verified"
+  },
+  {
+    "id": 86,
+    "audit_id": "82",
+    "label": "Learning Tree Academy 3 La Porte Trunk-or-Treat",
+    "url": "https://www.facebook.com/events/1432778265362038",
+    "guide": "Oct. 23Learning Tree Academy 3 La Porte Trunk-or-TreatLa PorteConfirm the full venue address and public hours.Confirm full event details"
+  },
+  {
+    "id": 87,
+    "audit_id": "83",
+    "label": "Downtown Trick-or-Treat",
+    "url": "https://www.valparaisoevents.com/event/downtown-trick-or-treat",
+    "guide": "Oct. 23Downtown Trick-or-TreatValparaiso4–6 p.m. · 100+ businesses · rain or shineSource reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 88,
+    "audit_id": "84",
+    "label": "Cedar Lake Trunk or Treat",
+    "url": "https://cedarlakein.gov/mc-events/trunk-or-treat/",
+    "guide": "Oct. 24Cedar Lake Trunk or TreatCedar LakeTown Grounds · Regular session noon–2 p.m.; sensory-friendly session 10:30–11:30 a.m.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 89,
+    "audit_id": "85",
+    "label": "America's Antique Mall Trunk-or-Treat",
+    "url": "https://www.americasantiquemall.com/event-details-registration/trunk-or-treat-6",
+    "guide": "Oct. 24America's Antique Mall Trunk-or-TreatHighland11 a.m.–12:30 p.m. · 8311 Indianapolis Blvd., HighlandSource reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 90,
+    "audit_id": "86",
+    "label": "Famous Athletics Trunk-or-Treat",
+    "url": "https://www.facebook.com/events/1992501217909742",
+    "guide": "Oct. 24Famous Athletics Trunk-or-TreatValparaisoConfirm the venue association, street address and public hours in the full event listing.Confirm full event details"
+  },
+  {
+    "id": 91,
+    "audit_id": "87",
+    "label": "Trunk or Treat in Union Mills",
+    "url": "https://www.facebook.com/events/2988168214723258",
+    "guide": "Oct. 24Trunk or Treat in Union MillsUnion MillsConfirm the venue, hours and public access in the full event listing.Confirm full event details"
+  },
+  {
+    "id": 92,
+    "audit_id": "88",
+    "label": "2026 Pumpkin Walk",
+    "url": "https://www.crownpoint.in.gov/522/Pumpkin-Walk",
+    "guide": "Oct. 242026 Pumpkin WalkCrown PointDowntown square · freeSource reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 93,
+    "audit_id": "89",
+    "label": "Hallelujah Harvest Trunks & Treats",
+    "url": "https://www.facebook.com/events/1009923001681973",
+    "guide": "Oct. 25Hallelujah Harvest Trunks & TreatsGaryGary · Check the complete church announcement for the venue address and hours.Confirm full event details"
+  },
+  {
+    "id": 94,
+    "audit_id": "90",
+    "label": "BACA Sensory-Friendly Trunk-or-Treat",
+    "url": "https://www.facebook.com/events/1063118299915866/",
+    "guide": "Oct. 28BACA Sensory-Friendly Trunk-or-TreatLocation to confirmBACA learning-center event · City/address needs confirmation: the title says Crown Point, while source location metadata says Schererville.2026 details not verified"
+  },
+  {
+    "id": 95,
+    "audit_id": "91",
+    "label": "Wolfie's Night Out",
+    "url": "https://www.educatemc.net/welcome-to-city/about-us/news/mcas-news/~board/district-news/post/wolfies-night-out-trick-or-treat-at-ames",
+    "guide": "Oct. 28Wolfie's Night OutMichigan City6:30–8 p.m. · Ames Field, 2501 Franklin St. · Free for Michigan City Area Schools families; children must be with a parent or guardian.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 96,
+    "audit_id": "92",
+    "label": "Coffee Creek Professional Center Trunk-or-Treat",
+    "url": "https://www.facebook.com/events/1094243276450913",
+    "guide": "Oct. 29Coffee Creek Professional Center Trunk-or-TreatChestertonCheck the complete event listing for public hours and arrival details.Confirm full event details"
+  },
+  {
+    "id": 97,
+    "audit_id": "93",
+    "label": "Crown Point CRC Trunk-or-Treat",
+    "url": "https://www.cpcrc.org/",
+    "guide": "Oct. 30Crown Point CRC Trunk-or-TreatCrown PointConfirm the dated event announcement, full venue name and public hours.2026 details not verified"
+  },
+  {
+    "id": 98,
+    "audit_id": null,
+    "label": "NWIEXPLORED",
+    "url": "https://nwiexplored.com/",
+    "guide": "NWIEXPLORED"
+  },
+  {
+    "id": 99,
+    "audit_id": "95",
+    "label": "Haunted Hills Haunted Attractions",
+    "url": "https://hauntedhillshauntedattractions.com/",
+    "guide": "Haunted Hills Haunted AttractionsMerrillville👻 Haunted attractionsExplore several haunted attractions and scare zones at this Merrillville haunt complex.DatesCheck the current 2026 calendar and ticket availability.ExtrasDaytime Fall Fest Oct. 10 & 24, 11 a.m.–3 p.m.; $5 admission.Where7611 E 81st AveConfirm operating hours, current prices and age rules before booking.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 100,
+    "audit_id": "96",
+    "label": "Criminally Insane Haunted House",
+    "url": "https://app.hauntpay.com/events/criminally-insane-2026",
+    "guide": "Criminally Insane Haunted HouseCrown Point👻 Haunted houseA haunted attraction inside Crown Point's historic Old Lake County Jail.Dates2026 ticket sessions begin Oct. 9 at 7 p.m.; choose your session when booking.PriceFrom $15; check ticket options and fees.Where226 S Main St (Old Jail)Verify session end times and actor-contact policies with the operator.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 101,
+    "audit_id": "97",
+    "label": "Johnston's House of Horror",
+    "url": "https://www.facebook.com/p/Johnstons-House-of-Horror-61551876906059/",
+    "guide": "Johnston's House of HorrorHighland👻 Home hauntA residential Halloween haunt in Highland.PlanCheck the current event announcement for nights, admission and intensity windows.Where9222 Johnston St2026 schedule not yet verified from a dated announcement.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 102,
+    "audit_id": "98",
+    "label": "Woodland Park Haunted Hayrides",
+    "url": "https://portagein.gov/494/Haunted-Hayride",
+    "guide": "Woodland Park Haunted HayridesPortage👻 Haunted hayrideA haunted hayride through Woodland Park in Portage.DatesOfficial 2026 page lists Oct. 22–24.PlanCheck start time, last admission and capacity before traveling.Where2100 Willowcreek RdOlder source metadata also mentions Oct. 15–17; that extra weekend is not confirmed here.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 103,
+    "audit_id": "99",
+    "label": "Hebron Haunted House",
+    "url": "https://www.facebook.com/hebronhauntedhouse/",
+    "guide": "Hebron Haunted HouseHebron👻 Haunted houseA community charity haunt in Hebron.PlanCheck the current announcement for nights, hours, admission and the beneficiary.Where307 S Main St2026 dates and full event details not yet verified.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 104,
+    "audit_id": "100",
+    "label": "Northwest Indiana Nightfall Tour",
+    "url": "https://www.eventbrite.com/e/the-northwest-indiana-nightfall-tour-tickets-2000773169409",
+    "guide": "Northwest Indiana Nightfall TourHammond👻 Ghost bus tourA guided bus tour exploring Lake County ghost stories and local legends.DatesOct. 10 session is listed; check booking for additional departures.BoardingHammond departure; confirm the exact boarding location and arrival time.The current booking listing also uses the name Lake County Demon Run. Confirm the age rule and boarding details.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 105,
+    "audit_id": "101",
+    "label": "Chaos Haunted & Historical Tours",
+    "url": "https://www.chaostrips.com/tours",
+    "guide": "Chaos Haunted & Historical ToursCrown Point · Valparaiso · Hobart👻 History & ghost toursExplore local history and ghost stories on walking tours, bus tours and adult pub crawls.BookChoose your tour format, town and dated session on the operator website.The linked bus-tour page does not confirm the full walking-tour or pub-crawl schedule. Check each booking page separately.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 106,
+    "audit_id": "102",
+    "label": "Friendship Gardens Haunted Trails",
+    "url": "https://friendshipbotanicgardens.org/event/haunted-trails-event-2026/",
+    "guide": "Friendship Gardens Haunted TrailsMichigan City👻 Family trail eventA daytime costume outing with trick-or-treating, crafts, games and a bonfire.DatesOct. 18, 2026 · 2–5 p.m.Price$4 child / $8 adultWhere2055 E. US Highway 12, Michigan City2026 event page reviewed Sept. 23.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 107,
+    "audit_id": "103",
+    "label": "Skarva Manor",
+    "url": "https://www.skarvamanorhh.com/about-us",
+    "guide": "Skarva ManorSchererville👻 Outdoor displayAn outdoor, front-yard Halloween display with handmade props, lights and effects—not a walk-through haunted house.DatesReopens Sept. 28, 2026; check the current display schedule.HoursPublished display hours: dusk–10 p.m. Sun.–Thu.; dusk–11 p.m. Fri.–Sat.Where5384 72nd AveSpecial events and display hours can change; see the current news update.Source reviewed Sept. 23, 2026Current display updates"
+  },
+  {
+    "id": 108,
+    "audit_id": "103",
+    "label": "Current display updates",
+    "url": "https://www.skarvamanorhh.com/news",
+    "guide": "Skarva ManorSchererville👻 Outdoor displayAn outdoor, front-yard Halloween display with handmade props, lights and effects—not a walk-through haunted house.DatesReopens Sept. 28, 2026; check the current display schedule.HoursPublished display hours: dusk–10 p.m. Sun.–Thu.; dusk–11 p.m. Fri.–Sat.Where5384 72nd AveSpecial events and display hours can change; see the current news update.Source reviewed Sept. 23, 2026Current display updates"
+  },
+  {
+    "id": 109,
+    "audit_id": "104",
+    "label": "Run For Your Life",
+    "url": "https://www.cityofhobart.org/614/Run-For-Your-Life-at-Robinson-Lake",
+    "guide": "Run For Your LifeHobart👻 Run & haunted trailChoose a Halloween fun walk, 5K or haunted-trail visit at Robinson Lake.DatesOct. 24 · Confirm the start time for your chosen activity.PriceCheck registration for separate race/trail tickets and inclusions.WhereRobinson Lake, HobartThe event page and its metadata differ; use the current registration details.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 110,
+    "audit_id": "105",
+    "label": "Haunted Trails by ABATE",
+    "url": "https://registration.abateonline.org/programs-events/events/upcoming-events/",
+    "guide": "Haunted Trails by ABATEValparaiso👻 Haunted trail rideA tractor-pulled haunted trail ride at Sunset Hill Farm, presented by ABATE of Indiana.DatesOct. 16–17 & 23–24, 2026HoursGates open 6 p.m.; first tractor 7 p.m. Gates close 10 p.m.; last tractor 10:30 p.m.Price$10; ages 6 and under free with an adult.WhereSunset Hill Farm County Park, 775 N Meridian RdCheck the event announcement for weather updates.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 111,
+    "audit_id": "106",
+    "label": "Whiting Haunted Hayride",
+    "url": "https://www.wickedlywhiting.com/faq",
+    "guide": "Whiting Haunted HayrideWhiting👻 Haunted hayrideA haunted hayride through Whiting Lakefront Park.DatesSept. 25–26 · 6–10 p.m.Price$5; see the Chamber for ticket details.WhereWhiting Lakefront Park, 1500 Park RdThe FAQ lists these dates but contains a festival-year typo. Confirm the final seasonal announcement.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 112,
+    "audit_id": "107",
+    "label": "Elzinga Farm haunted house",
+    "url": "https://elzingafarm.com/fall-family-activities/",
+    "guide": "Elzinga Farm haunted houseDyer👻 Farm haunted houseA farm-market haunted house recommended by the operator for ages 8 and up.Schedule2026 attraction dates and hours not yet verified.PriceThe activity page lists $8; reconfirm for your visit.Where1587 Joliet StMarket hours are not necessarily haunted-house hours. Call ahead.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 113,
+    "audit_id": "108",
+    "label": "Hesston Ghost Train",
+    "url": "https://hesston.org/ghosttrain",
+    "guide": "Hesston Ghost TrainHesston👻 Halloween train rideA Halloween-themed steam-train ride through the woods at Hesston Steam Museum.HoursGhost Train page lists noon–5 p.m.; select a 2026 date in booking.PriceCheck current Ghost Train fares and age guidance.WhereHesston Steam Museum, 1201 E 1000 N · free parkingConfirm the event calendar before traveling; regular museum-train fares may differ.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 114,
+    "audit_id": null,
+    "label": "Official city calendar",
+    "url": "https://www.cityofknox.net/",
+    "guide": "Official city calendar"
+  },
+  {
+    "id": 115,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://cedarlakein.gov/",
+    "guide": "Cedar Lake2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 116,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://chestertonin.org/",
+    "guide": "Chesterton2025: 5:30–7:30 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 117,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.crownpoint.in.gov/",
+    "guide": "Crown Point2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 118,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.demotte.gov/",
+    "guide": "DeMotteNo 2025 reference2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 119,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.townofdyer.com/",
+    "guide": "Dyer2025: 4–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 120,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.eastchicago.com/",
+    "guide": "East Chicago2025: 4–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 121,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.gary.gov/",
+    "guide": "Gary2025: 4–7:30 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 122,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.griffith.in.gov/",
+    "guide": "Griffith2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 123,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.gohammond.com/",
+    "guide": "Hammond2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 124,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.hebronindiana.org/",
+    "guide": "Hebron2025: 5:30–7:30 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 125,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.highland.in.gov/",
+    "guide": "Highland2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 126,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.cityofhobart.org/",
+    "guide": "Hobart2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 127,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.cityofknox.net/",
+    "guide": "Knox2025: 5:30–7 p.m.2026 confirmed aboveOfficial town website"
+  },
+  {
+    "id": 128,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.koutsindiana.org/",
+    "guide": "Kouts2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 129,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.cityoflaporte.com/departments/government",
+    "guide": "La Porte2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 130,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.lakestation-in.gov/",
+    "guide": "Lake StationNo 2025 reference2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 131,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.lowell.net/",
+    "guide": "Lowell2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 132,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.merrillville.in.gov/",
+    "guide": "Merrillville2025: 5:30–7:30 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 133,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://michigancityin.gov/",
+    "guide": "Michigan City2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 134,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.munster.org/",
+    "guide": "Munster2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 135,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.northjudsonin.gov/",
+    "guide": "North JudsonNo 2025 reference2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 136,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.portagein.gov/",
+    "guide": "Portage2025: 5:30–7:30 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 137,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.in.gov/towns/porter/",
+    "guide": "Porter2025: 5:30–7:30 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 138,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.rensselaer.in.gov/",
+    "guide": "RensselaerNo 2025 reference2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 139,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.schererville.org/",
+    "guide": "Schererville2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 140,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://stjohnin.gov/",
+    "guide": "St. John2025: 5–8 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 141,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.ci.valparaiso.in.us/",
+    "guide": "Valparaiso2025: 5:30–7:30 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 142,
+    "audit_id": null,
+    "label": "Call Town Hall",
+    "url": "tel:+12197852123",
+    "guide": "Westville2025: 5–7 p.m.2026 not verifiedCall Town Hall"
+  },
+  {
+    "id": 143,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://townofwheatfield.com/",
+    "guide": "WheatfieldNo 2025 reference2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 144,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.whitingindiana.com/",
+    "guide": "Whiting2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 145,
+    "audit_id": null,
+    "label": "Official town website",
+    "url": "https://www.winfield.in.gov/",
+    "guide": "Winfield2025: 5–7 p.m.2026 not verifiedOfficial town website"
+  },
+  {
+    "id": 146,
+    "audit_id": null,
+    "label": "See the NWI Explored newsletter offer",
+    "url": "#subscribe",
+    "guide": "See the NWI Explored newsletter offer"
+  },
+  {
+    "id": 147,
+    "audit_id": null,
+    "label": "NWIEXPLORED",
+    "url": "https://nwiexplored.com/",
+    "guide": "NWIEXPLORED"
+  },
+  {
+    "id": 148,
+    "audit_id": "109",
+    "label": "County Line Orchard",
+    "url": "https://www.countylineorchard.com/hours-admission/",
+    "guide": "County Line OrchardCheck season detailsHobartAn orchard outing with seasonal picking, a corn maze, children's activities and a bakery.HoursBig Barn daily 8 a.m.–6 p.m.; attractions 9 a.m.–5 p.m.PumpkinsPatch opens Oct. 1.PriceSee current admission and activity packages; pumpkins cost extra.Where200 S County Line Rd · (219) 947-4477Hours and prices are posted on the farm site; confirm their current-season applicability and crop availability.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 149,
+    "audit_id": "110",
+    "label": "Harvest Tyme Family Farm",
+    "url": "https://www.harvesttymefun.com/fall-festival",
+    "guide": "Harvest Tyme Family Farm2026 dates confirmedLowellPick pumpkins, explore the corn mazes and enjoy family rides and farm treats.HoursSat.–Sun., Sept. 19–Oct. 25, 10 a.m.–9 p.m.; patch, hayrides and maze close 6 p.m.; rides close 8 p.m.ExtrasPumpkin Glow: Fri.–Sun., 6:30–9 p.m. · Oktoberfest Oct. 2–4.Where17904 Grant St · (219) 440-2386Check ticket packages and any weather changes before visiting.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 150,
+    "audit_id": "111",
+    "label": "Johnson's Farm Produce",
+    "url": "https://johnsonsfarmproduce.com/pumpkin-festival/",
+    "guide": "Johnson's Farm Produce2026 dates confirmedHobartA weekend pumpkin festival with a corn maze and family activities.DatesWeekends Sept. 26–Oct. 31, 2026Hours10 a.m.–6 p.m.; last admission 5 p.m.PriceGeneral admission $15.99; all-access $25.99; pumpkins extra. See the farm page for package inclusions.Where8960 E Ridge RdSource reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 151,
+    "audit_id": "112",
+    "label": "Big John's Farm Market & Greenhouse",
+    "url": "https://bigjohnsfarmmarket.com/fall/pumpkin-patch/",
+    "guide": "Big John's Farm Market & GreenhouseConfirm 2026 scheduleLowellA pumpkin-patch outing with hayrides and barnyard activities.ScheduleFarm page lists Sept. 18–Oct. 31, Mon.–Sat. 9 a.m.–6 p.m.; closed Sundays.Where7705 W 159th Ave · (219) 690-1503The posted schedule does not state its year. Confirm 2026 hours and prices before visiting.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 152,
+    "audit_id": "113",
+    "label": "Elzinga Farm Market",
+    "url": "https://elzingafarm.com/fall-family-activities/",
+    "guide": "Elzinga Farm Market2026 details not verifiedDyerA farm-market fall outing with a corn maze, hayride, children's play areas and a haunted house.Schedule2026 attraction dates and hours not yet verified.PlanCheck each attraction separately; the haunted house is recommended for ages 8+.Where1587 Joliet St · (219) 865-1181Market hours and attraction hours can differ. Confirm current admission before visiting.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 153,
+    "audit_id": "114",
+    "label": "Scheeringa Farms",
+    "url": "https://www.scheeringafarm.com/",
+    "guide": "Scheeringa Farms2026 details not verifiedHighlandA Highland farm stop for pumpkins, seasonal produce and fall activities.PlanCheck current market hours and Friday/Saturday activity windows. The farm website says closed Sundays.Where9436 Cline Ave · (219) 838-6369Confirm which attractions operate on your intended visit day.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 154,
+    "audit_id": "115",
+    "label": "Hidden Creek Farm",
+    "url": "https://www.hcpumpkins.com/",
+    "guide": "Hidden Creek FarmConfirm 2026 scheduleCrown PointPick a pumpkin or shop for fall decorations at this Crown Point farm.ScheduleWebsite lists an Oct. 3 opening, Thu.–Fri. noon–4 p.m. and Sat.–Sun. 11 a.m.–4 p.m.Where7211 W 87th Ave · (219) 225-1922The source mixes seasonal dates. Confirm the 2026 schedule and any glow-maze nights before traveling.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 155,
+    "audit_id": "116",
+    "label": "Apple Blossom Trails",
+    "url": "https://www.appleblossomtrails.com/",
+    "guide": "Apple Blossom Trails2026 crop updateCrown PointCheck Apple Blossom Trails' current update for this year's available fall activities.Crop updateApple picking is unavailable in 2026 because of weather-related crop conditions.PlanCheck which other activities are operating before visiting.Where5507 E State Rd 231 · (309) 453-11182026 crop notice reviewed Sept. 23.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 156,
+    "audit_id": "117",
+    "label": "Garwood Orchards",
+    "url": "https://www.garwoodapplefarm.com/",
+    "guide": "Garwood Orchards2026 dates confirmedLa PorteAn orchard and market with seasonal u-pick, wagon rides, cider and bakery treats.HoursU-pick through Oct. 31, 9 a.m.–5:30 p.m.; market 9 a.m.–6 p.m.Last wagon4:45 p.m.Where5911 W 50 S · call (219) 362-4385 for picking conditionsCall (219) 362-4385 for same-day picking conditions.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 157,
+    "audit_id": "118",
+    "label": "Fischer Farm",
+    "url": "https://www.facebook.com/p/Fischer-Farm-100064283935580/",
+    "guide": "Fischer Farm2026 details not verifiedLa PorteA La Porte farm offering seasonal produce and fall activities.PlanCheck the dated farm announcement for hours, picking and available attractions.Where2400 N Fail Rd · (219) 362-86612026 dates and hours were not verified from the public Facebook profile.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 158,
+    "audit_id": "119",
+    "label": "Fair Oaks Farms",
+    "url": "https://fofarms.com/harvest-season/",
+    "guide": "Fair Oaks Farms2026 events listedFair OaksAn orchard outing with seasonal picking, wagon rides, donuts and fall events.EventsOktoberfest Sept. 26–27; Pumpkinfest Oct. 10–11; Halloween Trail Oct. 31; Pumpkin Smash Bash Nov. 7.PlanCheck orchard hours and admission for your date, including the separate Nov. 7 event.Where856 N 600 ESource reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 159,
+    "audit_id": "120",
+    "label": "Radke Orchards",
+    "url": "https://www.radkeorchards.com/",
+    "guide": "Radke Orchards2026 hours postedMichigan CityAn apple orchard with seasonal picking and farm treats. The 2026 crop is limited; check availability before traveling.HoursOpen from Sept. 5, 2026; daily 8:30 a.m.–5:30 p.m.PlanCheck current picking prices, container requirements and visitor policies.Where8999 W 200 N · (219) 872-31402026 hours and crop notice reviewed Sept. 23.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 160,
+    "audit_id": "121",
+    "label": "Pavolka Fruit Farm",
+    "url": "https://pavolkafruitfarm.com/",
+    "guide": "Pavolka Fruit FarmCheck picking availabilityMichigan CityA Michigan City fruit farm with seasonal produce and cider.HoursWebsite lists daily 9 a.m.–5 p.m.Where1776 N Wozniak Rd · (219) 874-6056Hours reviewed Sept. 23; confirm current varieties, picking availability and seasonal changes.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 161,
+    "audit_id": "122",
+    "label": "Williams Orchard",
+    "url": "https://www.facebook.com/williamsorchardevents/",
+    "guide": "Williams Orchard2026 details not verifiedLa PorteA La Porte orchard with seasonal picking and farm experiences.PlanCheck the current orchard announcement for picking dates and available crops.Where9456 N CR 500 E · (219) 440-1515Sunday-only picking and the availability of flowers or lavender were not verified for fall 2026.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 162,
+    "audit_id": "123",
+    "label": "Coulter's Produce",
+    "url": "https://www.facebook.com/p/Coulters-Farm-100064154675535/",
+    "guide": "Coulter's Produce2026 details not verifiedWestvilleA Westville farm stop for pumpkins and family fall activities.PlanCheck the current farm announcement for hours, activities, admission and payment methods.Where5433 S US Hwy 421 · (219) 785-24062026 maze fees, pony rides and face painting have not been verified here.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 163,
+    "audit_id": "124",
+    "label": "Jersey Isle Orchard",
+    "url": "https://www.facebook.com/JerseyIsleOrchard/",
+    "guide": "Jersey Isle Orchard2026 details not verifiedWanatahA Wanatah orchard and farm store with seasonal apples and local pantry goods.PlanConfirm current picking hours, available crops and accepted payment methods.Where16881 S CR 1050 W · (219) 216-4736The public profile does not establish a dated 2026 schedule.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 164,
+    "audit_id": "125",
+    "label": "Yellow River Farms",
+    "url": "https://www.yellowriverfarms.com/fall-farm-experience",
+    "guide": "Yellow River FarmsCheck seasonal scheduleKnoxTake a farm ride to choose pumpkins, then explore the seasonal play areas and market.PlanFall experiences run on seasonal weekends; weekday market hours differ.CostThe Fall Farm Experience page describes free hayrides; check prices for other activities and purchases.Where8535 E State Rd 8 · (574) 772-2581Confirm the current weekend schedule before traveling.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 165,
+    "audit_id": null,
+    "label": "Current national-park closures",
+    "url": "https://www.nps.gov/indu/planyourvisit/closuremaps.htm",
+    "guide": "Current national-park closures"
+  },
+  {
+    "id": 166,
+    "audit_id": "126",
+    "label": "West Beach & Dune Succession Trail",
+    "url": "https://www.nps.gov/indu/planyourvisit/wb16.htm",
+    "guide": "West Beach & Dune Succession TrailEasy–moderateGaryClimb dune stairs for Lake Michigan views, then follow the Dune Succession loop.Trail0.9-mile Dune Succession loop; 270+ stairs.Hours6 a.m.–9 p.m. CTFee$25 seven-day national-park private-vehicle pass.Where376 N County Line Rd, GaryStairs and sand may not suit every visitor; check NPS conditions.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 167,
+    "audit_id": "127",
+    "label": "Cowles Bog Trail",
+    "url": "https://www.nps.gov/indu/planyourvisit/cb16.htm",
+    "guide": "Cowles Bog TrailModerate–ruggedDune AcresHike through wetlands, oak woodland and dunes to a Lake Michigan beach.TrailAbout 4.7 miles; allow around 3 hours. Sandy climbs; leashed dogs permitted.Hours6 a.m.–11 p.m.FeeNational-park entrance pass required.Where1450 N Mineral Springs Rd (north lot) or 1184 N Mineral Springs RdUse the current NPS route map and closure notices.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 168,
+    "audit_id": "128",
+    "label": "Heron Rookery Trail",
+    "url": "https://www.nps.gov/indu/planyourvisit/hr16.htm",
+    "guide": "Heron Rookery TrailEasyMichigan CityFollow the Little Calumet River on a wooded out-and-back trail.Trail3.3 miles round trip; can be muddy; leashed dogs permitted.Hours6 a.m.–11 p.m.FeeNational-park entrance pass required.FacilitiesNo restrooms or drinking water.WhereEast trailhead, 1336 600 East, Michigan CitySource reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 169,
+    "audit_id": "129",
+    "label": "Chellberg Farm & Bailly Homestead",
+    "url": "https://home.nps.gov/places/bailly-homestead-chellberg-farm-little-calumet-river-mnoke-prairie-trails.htm",
+    "guide": "Chellberg Farm & Bailly HomesteadVaries by routePorterCombine fall woods with historic farm and homestead scenery.Trail1.1-mile inner loop or 3.4-mile outer loop; some sections have stairs.FeeCheck national-park admission and current closures.Where618 N Mineral Springs Rd, PorterChoose your route using the NPS trail-system page; not every connecting trail is flat.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 170,
+    "audit_id": "130",
+    "label": "Trail 7 route",
+    "url": "https://www.indianadunes.com/blog/post/discover-trail-7-at-indiana-dunes-state-park-a-scenic-hike-through-fall-foliage-and-stunning-views/",
+    "guide": "Trail 7 & the 3 Dune ChallengeChoose your routeIndiana Dunes State ParkChoose a woodland trail or a steeper dune challenge at Indiana Dunes State Park.Trail 7A 1-mile route from the Nature Center; see the Trail 7 guide for terrain.3 DunesSeparate 1.5-mile challenge along Trail 8; strenuous sandy climbs and 552 vertical feet.WhereNature Center, 1600 N. 25 East, ChestertonFeeState-park admission is separate from national-park admission.Check trail maps and park conditions before choosing a route.Source reviewed Sept. 23, 2026Trail 7 route · 3 Dune Challenge route"
+  },
+  {
+    "id": 171,
+    "audit_id": "130",
+    "label": "3 Dune Challenge route",
+    "url": "https://www.indianadunes.com/blog/post/our-guide-to-the-3-dune-challenge/",
+    "guide": "Trail 7 & the 3 Dune ChallengeChoose your routeIndiana Dunes State ParkChoose a woodland trail or a steeper dune challenge at Indiana Dunes State Park.Trail 7A 1-mile route from the Nature Center; see the Trail 7 guide for terrain.3 DunesSeparate 1.5-mile challenge along Trail 8; strenuous sandy climbs and 552 vertical feet.WhereNature Center, 1600 N. 25 East, ChestertonFeeState-park admission is separate from national-park admission.Check trail maps and park conditions before choosing a route.Source reviewed Sept. 23, 2026Trail 7 route · 3 Dune Challenge route"
+  },
+  {
+    "id": 172,
+    "audit_id": "131",
+    "label": "Coffee Creek Watershed Preserve",
+    "url": "https://coffeecreekpreserve.org/",
+    "guide": "Coffee Creek Watershed PreserveVaries by routeChestertonExplore wetlands, prairie, woods and creek crossings on a network of preserve trails.TrailChoose a route from the preserve map; surfaces and accessibility vary.FeeFree.Where2401 Village Point, Chesterton (2nd lot: 178 E Sidewalk Rd)Check current hours, trail conditions and dog rules on the preserve website.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 173,
+    "audit_id": "132",
+    "label": "Gabis Arboretum at Purdue Northwest",
+    "url": "https://www.pnw.edu/gabis-arboretum/",
+    "guide": "Gabis Arboretum at Purdue NorthwestVaries by routeValparaisoChoose a walk through woodland, prairie and wetland at this 300-acre arboretum.TrailInterconnecting trails; choose a route from the arboretum map.RailwayRailway Garden: Fri.–Sun., 10 a.m.–3 p.m., May–October.FeeCheck current vehicle admission and special-event charges.Where450 W 100 N, ValparaisoSource reviewed Sept. 23, 2026Hours and admission"
+  },
+  {
+    "id": 174,
+    "audit_id": "132",
+    "label": "Hours and admission",
+    "url": "https://www.pnw.edu/gabis-arboretum/plan-your-visit/hours/",
+    "guide": "Gabis Arboretum at Purdue NorthwestVaries by routeValparaisoChoose a walk through woodland, prairie and wetland at this 300-acre arboretum.TrailInterconnecting trails; choose a route from the arboretum map.RailwayRailway Garden: Fri.–Sun., 10 a.m.–3 p.m., May–October.FeeCheck current vehicle admission and special-event charges.Where450 W 100 N, ValparaisoSource reviewed Sept. 23, 2026Hours and admission"
+  },
+  {
+    "id": 175,
+    "audit_id": "133",
+    "label": "Deep River County Park",
+    "url": "https://lakecountyparks.com/151/Deep-River-County-Park",
+    "guide": "Deep River County ParkEasy walksHobartWalk beside the river and visit the historic mill area for a relaxed fall outing.WhereHistoric mill area, 9410 Old Lincoln Highway, HobartHours7 a.m.–duskFeeFree.Use this entrance for the mill area; the park has other access points.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 176,
+    "audit_id": "134",
+    "label": "Lemon Lake County Park",
+    "url": "https://lakecountyparks.com/244/Lemon-Lake",
+    "guide": "Lemon Lake County ParkVaries by routeCrown PointChoose from paved and natural-surface trails around the lake and surrounding woods.TrailChoose a route from the county map; paved and unpaved sections differ.Hours7 a.m.–sunsetFeeParking fee when staffed; check the current rate.Where6322 W 133rd Ave, Crown PointConfirm the specific accessible route with the park; do not assume the full trail network is paved.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 177,
+    "audit_id": "135",
+    "label": "Oak Ridge Prairie County Park",
+    "url": "https://www.lakecountyparks.com/245/Oak-Ridge-Prairie",
+    "guide": "Oak Ridge Prairie County ParkEasy walksGriffithExplore prairie and oak woodland, with connections to regional trails.TrailCounty park lists 5 miles of hiking trails, with Oak Savannah and Erie Lackawanna trail connections.Hours7 a.m.–sunsetFeeCheck the current county parking-fee schedule.Where301 S Colfax St, GriffithSelect a mapped route rather than assuming the entire network is one loop.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 178,
+    "audit_id": "136",
+    "label": "Seidner Dune & Swale Preserve",
+    "url": "https://www.in.gov/dnr/nature-preserves/files/np-Seidner.pdf",
+    "guide": "Seidner Dune & Swale PreserveModerateHammondExplore dune-and-swale habitat on a preserve trail reached by an old-railbed access walk.Trail0.4-mile access walk plus a 0.8-mile loop; allow for the return access walk.ParkingNo parking lot. Follow the DNR map for roadside access near Kennedy Avenue.FeeFree.Stay on the marked route and check access conditions. The linked map is a PDF.Source reviewed Sept. 23, 2026Trail map (PDF)"
+  },
+  {
+    "id": 179,
+    "audit_id": "136",
+    "label": "Trail map (PDF)",
+    "url": "https://www.in.gov/dnr/nature-preserves/files/np-Seidner.pdf",
+    "guide": "Seidner Dune & Swale PreserveModerateHammondExplore dune-and-swale habitat on a preserve trail reached by an old-railbed access walk.Trail0.4-mile access walk plus a 0.8-mile loop; allow for the return access walk.ParkingNo parking lot. Follow the DNR map for roadside access near Kennedy Avenue.FeeFree.Stay on the marked route and check access conditions. The linked map is a PDF.Source reviewed Sept. 23, 2026Trail map (PDF)"
+  },
+  {
+    "id": 180,
+    "audit_id": "137",
+    "label": "Moraine Nature Preserve",
+    "url": "https://www.in.gov/dA/ba20b34d63/np-Moraine.pdf?language_id=1",
+    "guide": "Moraine Nature PreserveRuggedValparaisoA quieter woodland hike through ridges and kettle-pond terrain at a 474-acre preserve.TrailUneven, rolling and sometimes steep terrain.WhereAccess from County Road 750 N.; use the official DNR map for directions.FeeFree.PlanBring water and check current access and facilities.The linked preserve map is a PDF; it does not establish current trail conditions.Source reviewed Sept. 23, 2026Preserve map (PDF)"
+  },
+  {
+    "id": 181,
+    "audit_id": "137",
+    "label": "Preserve map (PDF)",
+    "url": "https://www.in.gov/dA/ba20b34d63/np-Moraine.pdf?language_id=1",
+    "guide": "Moraine Nature PreserveRuggedValparaisoA quieter woodland hike through ridges and kettle-pond terrain at a 474-acre preserve.TrailUneven, rolling and sometimes steep terrain.WhereAccess from County Road 750 N.; use the official DNR map for directions.FeeFree.PlanBring water and check current access and facilities.The linked preserve map is a PDF; it does not establish current trail conditions.Source reviewed Sept. 23, 2026Preserve map (PDF)"
+  },
+  {
+    "id": 182,
+    "audit_id": "138",
+    "label": "Red Mill County Park",
+    "url": "https://laportecountyparks.org/parks/red-mill-county-park/",
+    "guide": "Red Mill County ParkEasy walksLa PorteWalk woodland and river trails at this 160-acre county park, which includes a 108-acre nature preserve.TrailChoose a marked route from the county park map.HoursSunrise–sunsetFeeFree.Where0185 S Holmesville Rd, La PorteCheck current facilities and route conditions with the park.Source reviewed Sept. 23, 2026"
+  },
+  {
+    "id": 183,
+    "audit_id": null,
+    "label": "Read a recent issue",
+    "url": "https://nwiexplored.com/p/your-first-taste-of-fall-comes-this-week-make-the-most-of-it",
+    "guide": "Read a recent issue"
+  },
+  {
+    "id": 184,
+    "audit_id": null,
+    "label": "NWI Explored newsletter",
+    "url": "https://nwiexplored.com/",
+    "guide": "Made for the Region, by NWI Explored.A local guide for fall 2026. Last reviewed Sept. 23, 2026. Check each listing’s year and source before you go—dates, prices, crops and trail conditions can change.NWI Explored newsletterRead a recent issueBack to top© 2026 NWI Explored"
+  },
+  {
+    "id": 185,
+    "audit_id": null,
+    "label": "Read a recent issue",
+    "url": "https://nwiexplored.com/p/your-first-taste-of-fall-comes-this-week-make-the-most-of-it",
+    "guide": "Made for the Region, by NWI Explored.A local guide for fall 2026. Last reviewed Sept. 23, 2026. Check each listing’s year and source before you go—dates, prices, crops and trail conditions can change.NWI Explored newsletterRead a recent issueBack to top© 2026 NWI Explored"
+  },
+  {
+    "id": 186,
+    "audit_id": null,
+    "label": "Back to top",
+    "url": "#p1",
+    "guide": "Made for the Region, by NWI Explored.A local guide for fall 2026. Last reviewed Sept. 23, 2026. Check each listing’s year and source before you go—dates, prices, crops and trail conditions can change.NWI Explored newsletterRead a recent issueBack to top© 2026 NWI Explored"
+  }
+]
