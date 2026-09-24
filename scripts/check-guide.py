@@ -126,11 +126,22 @@ class GuideChecks(unittest.TestCase):
             45: "https://brickartlive.com/event/without-u2-driver-8-tributes-to-u2-r-e-m/",
             46: "https://www.eventbrite.com/e/halloween-bash-26-nwi-adult-halloween-party-costume-contest-tickets-1993982098132",
             33: "https://friendshipbotanicgardens.org/event/haunted-trails-event-2026/",
+            79: "https://www.facebook.com/events/1536607871566699",
             102: "https://friendshipbotanicgardens.org/event/haunted-trails-event-2026/",
         }
         for listing_id, url in expected.items():
             self.assertEqual(self.hrefs(self.listing(listing_id))[0], url)
         self.assertEqual(len(self.hrefs(self.listing(130))), 2)
+
+    def test_aperion_event_details_are_verified(self):
+        listing = self.listing(79)
+        self.assertIn("October 22, 4–6 p.m. Central", listing.text)
+        self.assertIn("1101 E. Coolspring Avenue", listing.text)
+        self.assertIn("Public trunk-or-treat", listing.text)
+        notes = [n.text for n in listing.descendants() if n.has_class("source-note")]
+        self.assertEqual(notes, ["2026 date and time verified from organizer event page."])
+        self.assertNotIn("A dated event announcement is needed", listing.text)
+        self.assertNotIn("2026 details not verified", listing.text)
 
     def test_historical_and_current_town_hours_are_separate(self):
         town_section = self.by_id("town-hours")
