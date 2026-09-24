@@ -5,3 +5,9 @@
 # Python caches created by local guide/link checks.
 __pycache__/
 *.pyc
+
+# Local environment files and Vercel metadata must never be published.
+.env*
+!.env.example
+.vercel/
+node_modules/

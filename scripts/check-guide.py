@@ -83,15 +83,34 @@ class GuideChecks(unittest.TestCase):
                 value = node.attrs.get(key, "")
                 if value.startswith("#"):
                     self.assertIn(value[1:], ids)
-            for value in node.attrs.get("aria-labelledby", "").split():
-                self.assertIn(value, ids)
+            for key in ("aria-labelledby", "aria-describedby"):
+                for value in node.attrs.get(key, "").split():
+                    self.assertIn(value, ids)
 
-    def test_placeholders_are_not_subscription_forms(self):
-        slots = [n for n in DOC.nodes if n.has_class("sub-slot")]
-        self.assertEqual(len(slots), 2)
-        for slot in slots:
-            self.assertIn("Signup form goes here", slot.text)
-            self.assertFalse(any(n.tag in {"form", "input", "button", "iframe"} for n in slot.descendants()))
+    def test_newsletter_forms_are_accessible_and_have_approved_copy(self):
+        forms = [n for n in DOC.nodes if n.tag == "form"]
+        self.assertEqual(len(forms), 2)
+        self.assertEqual({n.attrs["data-subscribe-form"] for n in forms}, {"top", "bottom"})
+        for form in forms:
+            self.assertEqual(form.attrs["action"], "/api/subscribe")
+            self.assertEqual(form.attrs["method"], "post")
+            self.assertIn("novalidate", form.attrs)
+            self.assertFalse(any(n.tag == "a" for n in form.parent.descendants()))
+            self.assertNotIn("Free local news, twice a week.", form.parent.text)
+            self.assertNotIn("local preview", form.parent.text)
+            self.assertNotIn("Read a sample issue", form.parent.text)
+            self.assertIn("Fall is just the start. Get the best of NWI in your inbox, all year long.", form.parent.text)
+            self.assertIn("A local newsletter delivered to your inbox every Monday and Thursday", form.parent.text)
+            email = next(n for n in form.descendants() if n.attrs.get("name") == "email")
+            self.assertEqual(email.attrs["type"], "email")
+            self.assertIn("required", email.attrs)
+            self.assertEqual(email.attrs["autocomplete"], "email")
+            self.assertTrue(any(n.tag == "label" and n.attrs.get("for") == email.attrs["id"] for n in form.descendants()))
+            self.assertTrue(any(n.attrs.get("role") == "status" for n in form.descendants()))
+            self.assertTrue(any(n.tag == "button" and n.text == "Subscribe for free" for n in form.descendants()))
+        self.assertNotIn("Signup form goes here", HTML)
+        self.assertNotIn("beehiiv_api", HTML)
+        self.assertNotIn("beehiiv_pub_id", HTML)
         self.assertNotIn("printable", DOC.root.text.lower())
         self.assertNotIn("download the guide", DOC.root.text.lower())
 
@@ -345,6 +364,18 @@ class GuideChecks(unittest.TestCase):
         self.assertEqual(schemas[0]["@type"], "CollectionPage")
         self.assertNotIn('"@type": "Event"', HTML)
         self.assertEqual(schemas[0]["url"], "https://fallguide.nwiexplored.com/")
+
+    def test_before_you_go_callout_preserves_copy_and_emphasizes_action(self):
+        heading = self.by_id("before-you-go-heading")
+        self.assertEqual(heading.tag, "h2")
+        self.assertEqual(heading.text, "Before you go:")
+        notice = heading.parent.parent
+        self.assertEqual(notice.tag, "aside")
+        self.assertEqual(notice.attrs["role"], "note")
+        self.assertEqual(notice.attrs["aria-labelledby"], heading.attrs["id"])
+        self.assertEqual(" ".join(notice.text.split()), "Before you go: We've spent countless hours putting this guide together, but event details can change. Before you head out, please double-check the original listing linked with each event. We'll be reviewing and updating this guide daily all season long.")
+        emphasis = [n.text for n in notice.descendants() if n.tag == "strong"]
+        self.assertEqual(emphasis, ["Before you head out, please double-check the original listing linked with each event."])
 
     def test_footer_and_chart_alternatives_exist(self):
         footer = next(n for n in DOC.nodes if n.tag == "footer")

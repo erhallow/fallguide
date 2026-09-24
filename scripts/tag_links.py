@@ -106,7 +106,7 @@ def labels(anchor):
     if any(n.tag == "footer" for n in ancestors):
         return "footer", "nwi-explored", "sample-issue" if "/p/" in anchor.attrs["href"] else "newsletter-home"
     if panel and panel.attrs.get("id") in {"subscribe", "subscribe-bottom"}:
-        return "newsletter-top" if panel.attrs["id"] == "subscribe" else "newsletter-bottom", "nwi-explored", "sample-issue"
+        return "newsletter-top" if panel.attrs["id"] == "subscribe" else "newsletter-bottom", "nwi-explored", "sample-issue" if "/p/" in anchor.attrs["href"] else "newsletter-home"
     if not panel:
         raise ValueError(f"Unclassified link: {title}")
     panel_id = panel.attrs.get("aria-labelledby")

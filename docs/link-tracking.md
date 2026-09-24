@@ -1,11 +1,13 @@
 # Fall guide link tracking
 
-Implemented locally September 24, 2026. Nothing in this change enables a paid plan,
-changes Vercel account settings, commits, pushes, or deploys the website.
+Tracking was pushed to `main` on September 24, 2026 in commit `11b9507` and its
+181 labels were confirmed on the live guide. The later compact newsletter design
+removes the two sample-issue links from the signup panels; its temporary fallback
+links were also removed. No paid plan or Vercel account settings were changed.
 
 ## What is labeled
 
-All 181 outgoing HTTP(S) links have static UTM parameters, so they work even without
+All 179 outgoing HTTP(S) links have static UTM parameters, so they work even without
 JavaScript. This includes event titles, supplemental ticket/map/source links,
 farms, trails, town websites, newsletter links, and header/footer links.
 Internal navigation, telephone links, SVG references, assets and SEO URLs are unchanged.

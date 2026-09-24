@@ -14,7 +14,7 @@ LINKS = [n for n in DOC.nodes if n.tag == "a" and n.attrs.get("href", "").starts
 
 class TrackingChecks(unittest.TestCase):
     def test_every_web_link_has_consistent_static_labels(self):
-        self.assertEqual(len(LINKS), 181)
+        self.assertEqual(len(LINKS), 179)
         identities = []
         for link in LINKS:
             with self.subTest(link=link.text):
