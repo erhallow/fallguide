@@ -119,6 +119,7 @@ class GuideChecks(unittest.TestCase):
     def test_corrected_link_destinations(self):
         expected = {
             23: "https://fofarms.com/harvest-season/",
+            24: "https://fofarms.com/harvest-season/pumpkin-smash-bash/",
             41: "https://www.pnw.edu/event/acorn-concert-series-sarahs-place-zach-bryan-and-noah-kahan-tribute/",
             42: "https://www.valparaisoevents.com/event/valparaisouniversitysymphonyorchestrahalloweenspooktacular",
             43: "https://www.journeyman.com/events/halloween-party-valparaiso-in-26/",
