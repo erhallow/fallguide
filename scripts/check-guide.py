@@ -99,7 +99,7 @@ class GuideChecks(unittest.TestCase):
             self.assertNotIn("Free local news, twice a week.", form.parent.text)
             self.assertNotIn("local preview", form.parent.text)
             self.assertNotIn("Read a sample issue", form.parent.text)
-            self.assertIn("Fall is just the start. Get the best of NWI in your inbox, all year long.", form.parent.text)
+            self.assertIn("Not subscribed yet? Get the best of NWI, all year long.", form.parent.text)
             self.assertIn("A local newsletter delivered to your inbox every Monday and Thursday", form.parent.text)
             email = next(n for n in form.descendants() if n.attrs.get("name") == "email")
             self.assertEqual(email.attrs["type"], "email")
@@ -109,6 +109,9 @@ class GuideChecks(unittest.TestCase):
             self.assertTrue(any(n.attrs.get("role") == "status" for n in form.descendants()))
             self.assertTrue(any(n.tag == "button" and n.text == "Subscribe for free" for n in form.descendants()))
         self.assertNotIn("Signup form goes here", HTML)
+        button_style = HTML.split(".subscribe-fields button{", 1)[1].split("}", 1)[0]
+        self.assertIn("background:var(--olive)", button_style)
+        self.assertIn("color:#fff", button_style)
         self.assertNotIn("beehiiv_api", HTML)
         self.assertNotIn("beehiiv_pub_id", HTML)
         self.assertNotIn("printable", DOC.root.text.lower())
